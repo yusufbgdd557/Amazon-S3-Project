@@ -16,6 +16,16 @@ This project demonstrates hosting a static website using Amazon S3, showcasing i
 - **AWS Console Navigation**: Improved navigation skills within the AWS Management Console.
 
 ### Conclusion
-This project provided valuable experience with AWS S3, demonstrating its effectiveness for hosting static websites. Completion was acknowledged with a simple certificate from AWS.
+This project provided valuable experience with AWS S3, demonstrating its effectiveness for hosting static websites.
 
-![CloudComputingEssentials](https://github.com/user-attachments/assets/53ff758e-dc76-4a9c-b68b-31d24c526050)
+**Creating S3 Bucket**
+![image](https://github.com/user-attachments/assets/c4a01289-6a72-40a3-af52-b6ec4291f9a3)
+
+**Uploading Files to the Bucket**
+![image](https://github.com/user-attachments/assets/9ad09a3d-36e7-4bee-a5b8-c19373b2d284)
+
+**Configuring and Setting Up the Bucket for Hosting**
+![image](https://github.com/user-attachments/assets/1e001ffd-92f0-4b41-ab69-bb3c2eee243a)
+
+**After ACL Configuration: The Static Website is Available to Everyone**
+![image](https://github.com/user-attachments/assets/b7930fca-b62a-4f52-9045-d9db6eb15dcf)
